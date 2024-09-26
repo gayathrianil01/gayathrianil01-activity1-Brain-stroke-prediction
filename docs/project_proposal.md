@@ -21,7 +21,4 @@ This project aims to develop a machine learning model to predict the likelihood 
 - **Week 3**: Model evaluation and tuning.
 - **Week 4**: Documentation, testing, and deployment.
 
-## 5. Team Members
-- Member 1: [Name] - Data Preprocessing and EDA
-- Member 2: [Name] - Model Training and Evaluation
-- Member 3: [Name] - Documentation and Testing
+
