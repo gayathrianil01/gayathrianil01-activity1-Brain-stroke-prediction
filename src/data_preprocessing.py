@@ -1,3 +1,4 @@
+#preprocess
 import pandas as pd
 
 def preprocess_data(df):
@@ -9,7 +10,7 @@ def preprocess_data(df):
     
     return df
 
-if _name_ == "_main_":
+if __name__name__ == "_main_":
     data = pd.read_csv("../data/full_filled_stroke_data.csv")
     clean_data = preprocess_data(data)
     clean_data.to_csv("../data/clean_stroke_data.csv", index=False)
